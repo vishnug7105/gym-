@@ -193,38 +193,6 @@ I’m a great place for you to tell a story and let your users know a little mor
     </section>
 {/* Contact details*/}
     <section>
-    {/*<div className="bg-navcol-300 ">
-    <div className="m-20 ">
-    <h1 className="text-4xl font-bold text-white ">Lets's Get Moving</h1>
-    <h3>Sign Up For Updates</h3>
-
-    <h4>Full Name</h4>
-    <input type="text"
-    placeholder="Enter your name"
-    className="bg-navcol-400"/>
-    <div className="flex gap-2">
-    <div>
-    <h4>Email</h4>
-    <input type="email"
-    placeholder="Enter your e-mail"
-    className="bg-navcol-400"/>
-    </div>
-    <div>
-    <h4>Phone Number</h4>
-    <input type="tel"
-    placeholder="Enter your phone number"
-    className="bg-navcol-400"/>
-    </div>
-    </div>
-    <h4> TYpe your message here....</h4>
-    <textarea
-          name="message"
-          placeholder="Enter your message"
-          rows="10"
-          className="p-2 bg-transparent border-2 rounded-md text-white focus:outline-none"
-        ></textarea>
-    </div>
-    </div>*/}
 
     <div
 name="contact"
@@ -264,8 +232,7 @@ className="w-full h-screen bg-gradient-to-b from-black to-gray-800 p-4 text-whit
       ></textarea>
 
       <button className="text-white bg-gradient-to-b from-cyan-500 to-blue-500 px-6 py-3 my-8 mx-auto flex items-center rounded-md hover:scale-110 duration-300">
-        Submit
-      </button>
+        Submit</button>
     </form>
   </div>
 </div>
