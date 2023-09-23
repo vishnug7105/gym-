@@ -116,7 +116,7 @@ const Hero =() => {
          className="md:w-1/2 w-full"/>
       <div className="">
          <h1 className="text-4xl md:mt-32 text-center font-bold text-navcol-400">Community </h1>
-         <p className="text-xl max-w-md mt-8 md:ml-24 ml-16 text-center"> Fitness is not about being better than someone.
+         <p className="text-xl max-w-md mt-8 md:ml-24 ml-16 text-center "> Fitness is not about being better than someone.
             Fitness is about being better than the person you were yesterday.
             Excuses don’t burn calories.Excuses are for people who don’t want it bad enough.
          </p>
