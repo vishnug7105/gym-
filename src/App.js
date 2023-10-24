@@ -10,8 +10,8 @@ function App() {
   return (
     <>
     <GymHOC path="/" element = {< GymLayout />} />
-    <GymHOC path="/" exact Component ={ Hero } />
-    
+    <GymHOC path="/" exact component ={ Hero } />
+
 
     </>
   )
